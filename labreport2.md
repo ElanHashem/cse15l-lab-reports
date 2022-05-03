@@ -1,4 +1,4 @@
-## WEEK 3 LAB REPORTS
+## WEEK 3 LAB REPORT
 **PART 1**
 
 1: The programmer looks ups something once
@@ -25,4 +25,15 @@ The broken test you wrote has correct output
 
 **PART 5**
 
+## WEEK 4 LAB REPORT
+
+**PART 1**
+
+We knew the output was correct because it is what we expected it to be
+
+**PART 2**
+
+It took 15.58 seconds, majority of time spent typing on the command line
+
+**PART 3**
 
