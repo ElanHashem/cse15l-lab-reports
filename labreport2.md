@@ -47,6 +47,10 @@ OK (1 test)
 
 ![15l lab4 ss1](https://user-images.githubusercontent.com/103283907/166402656-dd894997-00f6-4d26-880c-37a0493fa60d.png)
 
-**Part 5**
+**PART 5**
 
 The benifits to the automated test is that it saves time
+
+**PART 6**
+
+![15l lab4 ss2](https://user-images.githubusercontent.com/103283907/166403974-960d3c25-dd0b-44f9-b7a1-c9368b72ece2.png)
