@@ -37,3 +37,11 @@ It took 15.58 seconds, majority of time spent typing on the command line
 
 **PART 3**
 
+JUnit version 4.13.2
+.
+Time: 0.008
+
+OK (1 test)
+
+**PART 4**
+
