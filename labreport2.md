@@ -44,4 +44,9 @@ Time: 0.008
 OK (1 test)
 
 **PART 4**
+![Image]
+(![15l lab4 ss1](https://user-images.githubusercontent.com/103283907/166402656-dd894997-00f6-4d26-880c-37a0493fa60d.png))
 
+**Part 5**
+
+The benifits to the automated test is that it saves time
