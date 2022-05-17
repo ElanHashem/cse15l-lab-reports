@@ -16,6 +16,10 @@ SCPing a file to ieng6
 
 **PART 2**
 
+public key made
+
+![labreport3 part 2 ss1](https://user-images.githubusercontent.com/103283907/168740166-03a72e58-06e6-44f4-87cc-4d3b00896b47.png)
+
 
 **PART 3**
 
