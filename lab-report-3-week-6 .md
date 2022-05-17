@@ -20,6 +20,10 @@ public key made
 
 ![labreport3 part 2 ss1](https://user-images.githubusercontent.com/103283907/168740166-03a72e58-06e6-44f4-87cc-4d3b00896b47.png)
 
+private key location
+
+![labreport3 part 2 ss2](https://user-images.githubusercontent.com/103283907/168741721-512da53e-f5c3-42aa-8b4a-8329544649f5.png)
+
 
 **PART 3**
 
