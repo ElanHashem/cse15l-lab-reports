@@ -15,3 +15,6 @@ SCPing a file to ieng6
 ![labreport3 ss4](https://user-images.githubusercontent.com/103283907/167513952-4599d96c-152f-436f-9cac-04174db0175b.png)
 
 **PART 2**
+
+
+**PART 3**
