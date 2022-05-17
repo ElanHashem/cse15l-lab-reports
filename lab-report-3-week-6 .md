@@ -24,6 +24,10 @@ private key location
 
 ![labreport3 part 2 ss2](https://user-images.githubusercontent.com/103283907/168741721-512da53e-f5c3-42aa-8b4a-8329544649f5.png)
 
+git commit command/push
+
+![labreport3 part 2 ss3](https://user-images.githubusercontent.com/103283907/168755673-af809cc3-5430-4402-a52c-4134b9bd27d5.png)
+
 
 **PART 3**
 
