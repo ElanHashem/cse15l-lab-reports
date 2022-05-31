@@ -32,3 +32,5 @@ All 3 tests failed
 ## Answering the questions
 
 **Snippit 1**: I do think that there is a code change less than 10 lines to deal with the back ticks. I would have to add an if statment that searches through the string to find the next back tick the same way I would [] and inline code it.
+
+**Snippit 2**: I do think there is a code change less than 10 lines to deal with nested links, brackets, and escaped brackets. For nested links and inner brackets have a boolean isSecondFront that gets set to true when the there is a second opening bracket that gets checked when a closed bracket is found and switched back to false. Escaped brackets can be dealt with an if statement that if the index before was a \ the bracket does not count.
