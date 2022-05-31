@@ -29,6 +29,12 @@ Snippit 3
 
 All 3 tests failed
 
+## Junit testing output for the reviewed markdown parse
+
+![labreport4 ss6](https://user-images.githubusercontent.com/103283907/171163174-bc9ce469-81d0-4d35-bffd-a0352ee76db5.png)
+
+All 3 tests failed
+
 ## Answering the questions
 
 **Snippit 1**: I do think that there is a code change less than 10 lines to deal with the back ticks. I would have to add an if statment that searches through the string to find the next back tick the same way I would [] and inline code it.
