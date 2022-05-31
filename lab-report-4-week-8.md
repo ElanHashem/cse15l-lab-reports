@@ -3,7 +3,7 @@
 
 My Markdownparse repo link: [Mine](https://github.com/ElanHashem/MarkDownParser.git)
 
-Other group Markdownparse repo link:
+Other group Markdownparse repo link: [theirs](https://github.com/ohuynh21/markdown-parser)
 
 ## Expected output for the snippits based off VS code preview 
 Snippit 1
