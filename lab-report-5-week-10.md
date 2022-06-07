@@ -5,7 +5,7 @@ I found the test with different results using the command: `diff MarkDownParser/
 
 The command outputs all the differencers between results.txt of my markdown-parse and the given markdown-parse
 
-## First difference I found
+## First difference found
 
 test-files/495.md
 
@@ -26,9 +26,14 @@ Both of my implementation and the given one were incorrect in this test. What I 
 ![labreport5 ss4](https://user-images.githubusercontent.com/103283907/172313450-3f4b2f7f-7a33-4816-b9b2-d9fd4ea2da1b.png)
 
 
-## second difference I found
+## Second difference found
 
 test-files/487.md
 
 ![labreport5 ss5](https://user-images.githubusercontent.com/103283907/172313962-2e130a35-70db-4523-926e-6442f82bcae7.png)
 
+the first one is the given parser and the second one is mine
+
+the test in the file was
+
+![labreport5 ss6](https://user-images.githubusercontent.com/103283907/172315337-8d76f9c0-be55-460b-a7b3-b00734467a79.png)
