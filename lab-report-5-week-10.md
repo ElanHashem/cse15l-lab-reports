@@ -37,3 +37,11 @@ the first one is the given parser and the second one is mine
 the test in the file was
 
 ![labreport5 ss6](https://user-images.githubusercontent.com/103283907/172315337-8d76f9c0-be55-460b-a7b3-b00734467a79.png)
+
+the correct output is
+
+![labreport5 ss7](https://user-images.githubusercontent.com/103283907/172317013-591fbc14-ce61-4980-9459-c330f6463852.png)
+
+Both my implementation and the given parser were wrong in this test. What I did wrong in my implementation is that I did not account for a scenario where the link has a space in between. The way to fix this would be to have an if statment that picks up the whitespace and returns the string as it origanlly was.
+
+![labreport5 ss8](https://user-images.githubusercontent.com/103283907/172319151-81481815-2c83-4126-bb48-5ef638a19e48.png)
