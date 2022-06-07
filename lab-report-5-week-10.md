@@ -21,3 +21,4 @@ the correct output is
 
 ![labreport5 ss3](https://user-images.githubusercontent.com/103283907/172299876-d1402cab-21ea-4438-b332-f56fa0b5e101.png)
 
+Both of my implementation and the given one were incorrect in this test. What I did wrong in my implementation is that it does not have a test case that properly handles not having a closing parethese. This is solvable by checking if the string contains a ).
