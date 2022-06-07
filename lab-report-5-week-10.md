@@ -22,3 +22,9 @@ the correct output is
 ![labreport5 ss3](https://user-images.githubusercontent.com/103283907/172299876-d1402cab-21ea-4438-b332-f56fa0b5e101.png)
 
 Both of my implementation and the given one were incorrect in this test. What I did wrong in my implementation is that it does not have a test case that properly handles not having a closing parethese. This is solvable by checking if the string contains a ).
+
+![labreport5 ss4](https://user-images.githubusercontent.com/103283907/172313450-3f4b2f7f-7a33-4816-b9b2-d9fd4ea2da1b.png)
+
+
+## second difference I found
+
