@@ -11,4 +11,9 @@ test-files/495.md
 
 ![labreport5 ss1](https://user-images.githubusercontent.com/103283907/172286922-bf9bb9c8-894d-4a63-8999-034ddfddb2c4.png)
 
-the first one is mine and the second one is 
+the first one is the given parser and the second one is mine
+
+The test in the file was
+
+![labreport5 ss2](https://user-images.githubusercontent.com/103283907/172294707-2b85b9ea-9ae5-47a4-b23c-02f4938fc6eb.png)
+
