@@ -17,3 +17,7 @@ The test in the file was
 
 ![labreport5 ss2](https://user-images.githubusercontent.com/103283907/172294707-2b85b9ea-9ae5-47a4-b23c-02f4938fc6eb.png)
 
+the correct output is 
+
+![labreport5 ss3](https://user-images.githubusercontent.com/103283907/172299876-d1402cab-21ea-4438-b332-f56fa0b5e101.png)
+
