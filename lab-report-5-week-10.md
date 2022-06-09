@@ -28,7 +28,7 @@ Both of my implementation and the given one were incorrect in this test. What I 
 
 ## Second difference found
 
-test-files/487.md
+[test 487](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/487.md)
 
 ![labreport5 ss5](https://user-images.githubusercontent.com/103283907/172313962-2e130a35-70db-4523-926e-6442f82bcae7.png)
 
