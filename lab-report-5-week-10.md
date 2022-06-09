@@ -11,7 +11,7 @@ test-files/495.md
 
 ![labreport5 ss1](https://user-images.githubusercontent.com/103283907/172286922-bf9bb9c8-894d-4a63-8999-034ddfddb2c4.png)
 
-the first one is the given parser actual result and the second one is my actual result
+the first result is the given parser actual result and the second one is my actual result
 
 The test in the file was
 
@@ -32,7 +32,7 @@ test-files/487.md
 
 ![labreport5 ss5](https://user-images.githubusercontent.com/103283907/172313962-2e130a35-70db-4523-926e-6442f82bcae7.png)
 
-the first one is the given parser actual result and the second one is my actual result
+the first result is the given parser actual result and the second one is my actual result
 
 the test in the file was
 
