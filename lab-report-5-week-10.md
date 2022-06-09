@@ -11,13 +11,13 @@ test-files/495.md
 
 ![labreport5 ss1](https://user-images.githubusercontent.com/103283907/172286922-bf9bb9c8-894d-4a63-8999-034ddfddb2c4.png)
 
-the first one is the given parser and the second one is mine
+the first one is the given parser actual result and the second one is my actual result
 
 The test in the file was
 
 ![labreport5 ss2](https://user-images.githubusercontent.com/103283907/172294707-2b85b9ea-9ae5-47a4-b23c-02f4938fc6eb.png)
 
-the correct output is 
+the excpected output  is 
 
 ![labreport5 ss3](https://user-images.githubusercontent.com/103283907/172299876-d1402cab-21ea-4438-b332-f56fa0b5e101.png)
 
@@ -32,13 +32,13 @@ test-files/487.md
 
 ![labreport5 ss5](https://user-images.githubusercontent.com/103283907/172313962-2e130a35-70db-4523-926e-6442f82bcae7.png)
 
-the first one is the given parser and the second one is mine
+the first one is the given parser actual result and the second one is my actual result
 
 the test in the file was
 
 ![labreport5 ss6](https://user-images.githubusercontent.com/103283907/172315337-8d76f9c0-be55-460b-a7b3-b00734467a79.png)
 
-the correct output is
+the expected output is
 
 ![labreport5 ss7](https://user-images.githubusercontent.com/103283907/172317013-591fbc14-ce61-4980-9459-c330f6463852.png)
 
