@@ -7,7 +7,7 @@ The command outputs all the differencers between results.txt of my markdown-pars
 
 ## First difference found
 
-[test 495](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/496.md)
+[test 495](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/495.md)
 
 ![labreport5 ss1](https://user-images.githubusercontent.com/103283907/172286922-bf9bb9c8-894d-4a63-8999-034ddfddb2c4.png)
 
